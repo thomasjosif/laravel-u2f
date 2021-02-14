@@ -1,5 +1,5 @@
 {
-    "name": "lahaxearnaud/laravel-u2f",
+    "name": "thomasjosif/laravel-u2f",
     "description": "U2F support for laravel 6",
     "keywords": [
         "u2f",
@@ -14,6 +14,10 @@
             "email": "lahaxe.arnaud@gmail.com",
             "homepage": "http://lahaxe.fr",
             "role": "Developer"
+        },
+        {
+            "name": "Thomasjosif",
+            "email": "thomasjosif@outlook.com",
         }
     ],
     "require": {
